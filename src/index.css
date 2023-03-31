@@ -1,0 +1,13 @@
+html{
+  font-size:62.5%;
+}
+body{
+  margin: 0;
+  font-family: 300 11px/1.4 'Monaco','sans-serif';
+  color:#149414;
+  background:#1D1D1D;
+  overflow:hidden;
+  display:block;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
